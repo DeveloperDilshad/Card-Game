@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/CardWorkout-master.dia",
+    "emit-module-dependencies" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/CardWorkout-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/CardWorkout-master-emit-module.dia",
+    "swift-dependencies" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/CardWorkout-master.swiftdeps"
+  },
+  "/Users/dilshadp/CardWorkout/CardWorkout/AppDelegate.swift" : {
+    "const-values" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/dilshadp/CardWorkout/CardWorkout/CardSelectionVC.swift" : {
+    "const-values" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/CardSelectionVC.swiftconstvalues",
+    "dependencies" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/CardSelectionVC.d",
+    "diagnostics" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/CardSelectionVC.dia",
+    "index-unit-output-path" : "/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/CardSelectionVC.o",
+    "llvm-bc" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/CardSelectionVC.bc",
+    "object" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/CardSelectionVC.o",
+    "swift-dependencies" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/CardSelectionVC.swiftdeps",
+    "swiftmodule" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/CardSelectionVC~partial.swiftmodule"
+  },
+  "/Users/dilshadp/CardWorkout/CardWorkout/SceneDelegate.swift" : {
+    "const-values" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/dilshadp/CardWorkout/build/CardWorkout.build/Debug-iphonesimulator/CardWorkout.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
