@@ -314,13 +314,19 @@ SWIFT_CLASS("_TtC11CardWorkout11AppDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+@class UIImageView;
 @class NSString;
 @class NSBundle;
 @class NSCoder;
 
 SWIFT_CLASS("_TtC11CardWorkout15CardSelectionVC")
 @interface CardSelectionVC : UIViewController
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified cardImageView;
 - (void)viewDidLoad;
+- (void)viewDidDisappear:(BOOL)animated;
+- (void)showRandomeImage;
+- (IBAction)stopper:(id _Nonnull)sender;
+- (IBAction)restarter:(id _Nonnull)sender;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end

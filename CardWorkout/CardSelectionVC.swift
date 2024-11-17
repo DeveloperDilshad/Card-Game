@@ -8,22 +8,37 @@
 import UIKit
 
 class CardSelectionVC: UIViewController {
+    
+    var cards :[UIImage] = Card.allValues
+    var timer:Timer!
 
+    @IBOutlet weak var cardImageView: UIImageView!
+    
     override func viewDidLoad() {
+        setTimer()
         super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
     }
     
-
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
+    override func viewDidDisappear(_ animated: Bool) {
+        viewDidDisappear(animated)
+        timer.invalidate()
     }
-    */
-
+    
+    func setTimer(){
+        timer = Timer.scheduledTimer(timeInterval: 0.1, target: self, selector: #selector(showRandomeImage), userInfo: nil, repeats: true)
+    }
+    
+    @objc func showRandomeImage(){
+        cardImageView.image = cards.randomElement() ?? UIImage(named: "AS")
+    }
+    
+    @IBAction func stopper(_ sender: Any) {
+        timer.invalidate()
+    }
+    
+    @IBAction func restarter(_ sender: Any) {
+        timer.invalidate()
+        setTimer()
+    }
+    
 }
